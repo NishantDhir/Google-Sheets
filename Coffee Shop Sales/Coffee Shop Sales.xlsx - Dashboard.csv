@@ -1,0 +1,84 @@
+monthname,SUM of revenue,
+Apr,"$118,941",
+Feb,"$76,145",
+Jan,"$81,678",
+Jun,"$166,486",
+Mar,"$98,835",
+May,"$156,728",
+,,
+,,
+,,
+,,
+weekdayname,COUNT of transaction_id,
+Fri,"20,510",
+Mon,"21,202",
+Sat,"21,096",
+Sun,"21,643",
+Thu,"21,701",
+Tue,"21,310",
+Wed,"21,654",
+,,
+,,
+,,
+hour,COUNT of transaction_id,
+6,"4,594",
+7,"13,428",
+8,"17,654",
+9,"17,764",
+10,"18,545",
+11,"9,766",
+12,"8,708",
+13,"8,714",
+14,"$8,933",
+15,"$8,979",
+16,"$9,093",
+17,"$8,745",
+18,"$7,498",
+19,"$6,092",
+20,$603,
+,,
+,,
+product_category,COUNT of transaction_id,
+Coffee,"58,416",
+Tea,"45,449",
+Bakery,"22,796",
+Drinking Chocolate,"11,468",
+Flavours,"6,790",
+Coffee beans,"1,753",
+Loose Tea,"1,210",
+Branded,747,
+Packaged Chocolate,$487,
+,,
+,,
+,,
+product_type,COUNT of transaction_id,SUM of revenue
+Brewed Chai tea,"17,183","$77,082"
+Gourmet brewed coffee,"16,912","$70,035"
+Barista Espresso,"16,403","$91,406"
+Hot chocolate,"11,468","$72,416"
+Brewed Black tea,"11,350","$47,932"
+Brewed herbal tea,"11,245","$47,540"
+Scone,"10,173","$36,866"
+Organic brewed coffee,"8,489","$37,747"
+Drip coffee,"$8,477","$31,984"
+Premium brewed coffee,"$8,135","$38,781"
+Pastry,"$6,912","$25,656"
+Biscotti,"$5,711","$19,794"
+Brewed Green tea,"$5,671","$23,853"
+Regular syrup,"$4,979","$6,085"
+Sugar free syrup,"$1,811","$2,324"
+Housewares,$526,"$7,444.00"
+Chai tea,$443,"$4,301.25"
+Organic Beans,$415,"$8,509.50"
+Gourmet Beans,$366,"$6,798.00"
+Premium Beans,$336,"$14,583.50"
+Espresso Beans,$319,"$5,560.25"
+Herbal tea,$305,"$2,729.75"
+Black tea,$303,"$2,711.85"
+Drinking Chocolate,$266,"$2,728.04"
+Organic Chocolate,$221,"$1,679.60"
+Clothing,$221,"$6,163.00"
+House blend Beans,$183,"$3,294.00"
+Green tea,$159,"$1,470.75"
+Green beans,$134,"$1,340.00"
+Grand Total,"$149,116","$698,812.33"
